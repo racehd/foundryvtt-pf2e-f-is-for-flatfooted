@@ -4,6 +4,9 @@ Make things flatfooted by hovering and pressing the F key.
 
 ## Changelog
 
+### v5.15.1
+- Verified V13
+
 ### v5.15.0
 
 - allow variant actions
